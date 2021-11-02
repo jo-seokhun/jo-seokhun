@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Jo's%20Factory✨&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=✨Jo's%20Factory✨&fontSize=70)
 
 ### 📙 I am currently studying at Kookmin University School of Automotive IT convergence.   
 ### 🌱 I'm inerested in Self-driving Technology 
